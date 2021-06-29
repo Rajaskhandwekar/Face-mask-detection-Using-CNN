@@ -1,0 +1,2 @@
+# Face-mask-detection-Using-CNN
+Face mask detection can be done with observation cameras to block COVID-19 transmission by allowing the identification of the people who are wearing a mask or not wearing a mask. In this model, the detector detects faces in the video stream, and identifies whether a person is wearing a mask or not. In this model we have used deep learning and traditional machine learning techniques with the OpenCV, tensor flow and  Keras. 
